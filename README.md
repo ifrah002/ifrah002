@@ -1,6 +1,6 @@
 <u><h2>About me!</h2></u>
 
-- - 👋 Hi, I’m @ifrah002
+- 👋 Hi, I’m @ifrah002
 - 👀 I’m interested in Web & Mobile app development.
 - 🌱 I’m currently working on Assignments.
 - 📫 How to reach me ifrahislambaig1101@gmail.com
